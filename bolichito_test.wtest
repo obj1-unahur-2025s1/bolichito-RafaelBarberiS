@@ -1,0 +1,7 @@
+import personas.*
+import objetos.*
+import bolichito.*
+
+test "El rojo es fuerte"{
+    assert.that(rojo.esFuerte())
+}
